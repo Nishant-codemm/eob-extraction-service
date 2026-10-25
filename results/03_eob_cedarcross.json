@@ -1,0 +1,56 @@
+{
+  "header": {
+    "document_number": "CC-2026-7731905",
+    "document_date": "2026-09-18",
+    "issuer_name": "Cedar Cross Mutual",
+    "issuer_id": "PAYER-CC-330",
+    "recipient_name": "Marcus O. Bennett",
+    "recipient_id": "CC3310190",
+    "base_unit": "USD",
+    "declared_total": "64.00",
+    "total_billed": "560.00",
+    "total_allowed": "320.00",
+    "total_plan_paid": "256.00",
+    "total_tax_amount": "0.00",
+    "is_arithmetic_valid": true,
+    "needs_review": true,
+    "review_reasons": [
+      "unexpected_field:$.line_items[0].model_confidence",
+      "unexpected_field:$.line_items[1].model_confidence",
+      "unexpected_field:$.line_items[2].model_confidence",
+      "unexpected_field:$.notes"
+    ]
+  },
+  "line_items": [
+    {
+      "line_number": 1,
+      "line_description": "Diagnostic mammography, bilateral",
+      "classification_code": "77066",
+      "quantity": 1,
+      "amount_billed": "310.00",
+      "amount_allowed": "180.00",
+      "amount_plan_paid": "144.00",
+      "line_total": "36.00"
+    },
+    {
+      "line_number": 2,
+      "line_description": "Radiologist interpretation",
+      "classification_code": "76140",
+      "quantity": 1,
+      "amount_billed": "90.00",
+      "amount_allowed": "48.00",
+      "amount_plan_paid": "38.40",
+      "line_total": "9.60"
+    },
+    {
+      "line_number": 3,
+      "line_description": "Ultrasound, breast, limited",
+      "classification_code": "76642",
+      "quantity": 1,
+      "amount_billed": "160.00",
+      "amount_allowed": "92.00",
+      "amount_plan_paid": "73.60",
+      "line_total": "18.40"
+    }
+  ]
+}

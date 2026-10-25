@@ -1,0 +1,19 @@
+GRAND MESA HEALTH
+EXPLANATION OF BENEFITS - THIS IS NOT A BILL
+
+Claim Number: GM-2026-4410277        Processed: 2026-09-22
+Member: Sofia L. Delgado    Member ID: GM4410277
+Payer ID: PAYER-GM-402
+
+Service                                   Code    Units   Billed   Allowed  PlanPaid  YouOwe
+--------------------------------------------------------------------------------------------
+Emergency department visit, high severit  99285      1    1450.00   820.00   656.00   164.00
+CT head without contrast                  70450      1     640.00   360.00   288.00    72.00
+IV infusion, hydration, first hour        96360      1     210.00   110.00    88.00    22.00
+--------------------------------------------------------------------------------------------
+Totals                                                 2300.00  1290.00  1032.00   258.00
+
+Patient responsibility for this claim: 258.00 USD
+Questions about this statement: call the number on your member card.
+
+FICTITIOUS SAMPLE FOR AN AGENT SPACE HIRING ASSIGNMENT. All names, ids and figures are invented.

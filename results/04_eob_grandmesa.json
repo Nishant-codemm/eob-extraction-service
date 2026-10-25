@@ -1,0 +1,54 @@
+{
+  "header": {
+    "document_number": "GM-2026-4410277",
+    "document_date": "2026-09-22",
+    "issuer_name": "Grand Mesa Health",
+    "issuer_id": "PAYER-GM-402",
+    "recipient_name": "Sofia L. Delgado",
+    "recipient_id": "GM4410277",
+    "base_unit": "USD",
+    "declared_total": "258.00",
+    "total_billed": "2300.00",
+    "total_allowed": "1290.00",
+    "total_plan_paid": "1032.00",
+    "total_tax_amount": "0.00",
+    "is_arithmetic_valid": false,
+    "needs_review": true,
+    "review_reasons": [
+      "line_2_allowed_minus_paid_mismatch",
+      "line_totals_do_not_match_declared_total"
+    ]
+  },
+  "line_items": [
+    {
+      "line_number": 1,
+      "line_description": "Emergency department visit, high severity",
+      "classification_code": "99285",
+      "quantity": 1,
+      "amount_billed": "1450.00",
+      "amount_allowed": "820.00",
+      "amount_plan_paid": "656.00",
+      "line_total": "164.00"
+    },
+    {
+      "line_number": 2,
+      "line_description": "CT head without contrast",
+      "classification_code": "70450",
+      "quantity": 1,
+      "amount_billed": "640.00",
+      "amount_allowed": "360.00",
+      "amount_plan_paid": "288.00",
+      "line_total": "112.00"
+    },
+    {
+      "line_number": 3,
+      "line_description": "IV infusion, hydration, first hour",
+      "classification_code": "96360",
+      "quantity": 1,
+      "amount_billed": "210.00",
+      "amount_allowed": "110.00",
+      "amount_plan_paid": "88.00",
+      "line_total": "22.00"
+    }
+  ]
+}

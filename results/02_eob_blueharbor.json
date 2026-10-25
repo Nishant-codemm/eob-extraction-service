@@ -1,0 +1,44 @@
+{
+  "header": {
+    "document_number": "BH-2026-0098812",
+    "document_date": "2026-09-09",
+    "issuer_name": "Blue Harbor Insurance",
+    "issuer_id": "PAYER-BH-221",
+    "recipient_name": "Priya N. Raman",
+    "recipient_id": "BH4471028",
+    "base_unit": "USD",
+    "declared_total": "32.00",
+    "total_billed": "300.00",
+    "total_allowed": "160.00",
+    "total_plan_paid": "128.00",
+    "total_tax_amount": "0.00",
+    "is_arithmetic_valid": true,
+    "needs_review": true,
+    "review_reasons": [
+      "completion_wrapper_removed",
+      "trailing_comma_repaired"
+    ]
+  },
+  "line_items": [
+    {
+      "line_number": 1,
+      "line_description": "Physical therapy, therapeutic exercise, 15 min units",
+      "classification_code": "97110",
+      "quantity": 3,
+      "amount_billed": "180.00",
+      "amount_allowed": "96.00",
+      "amount_plan_paid": "76.80",
+      "line_total": "19.20"
+    },
+    {
+      "line_number": 2,
+      "line_description": "Manual therapy techniques, 15 min",
+      "classification_code": "97140",
+      "quantity": 2,
+      "amount_billed": "120.00",
+      "amount_allowed": "64.00",
+      "amount_plan_paid": "51.20",
+      "line_total": "12.80"
+    }
+  ]
+}

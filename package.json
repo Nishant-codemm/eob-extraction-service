@@ -1,0 +1,27 @@
+{
+  "name": "eob-extraction-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Resilient EOB extraction API with strict validation and reconciliation",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test",
+    "samples": "node src/scripts/process-samples.js",
+    "demo": "npm run samples && npm start"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "pino": "^9.9.0",
+    "zod": "^4.1.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.1.4"
+  }
+}

@@ -1,0 +1,18 @@
+BLUE HARBOR INSURANCE
+EXPLANATION OF BENEFITS - THIS IS NOT A BILL
+
+Claim Number: BH-2026-0098812        Processed: 2026-09-09
+Member: Priya N. Raman    Member ID: BH4471028
+Payer ID: PAYER-BH-221
+
+Service                                   Code    Units   Billed   Allowed  PlanPaid  YouOwe
+--------------------------------------------------------------------------------------------
+Physical therapy, therapeutic exercise,   97110      3     180.00    96.00    76.80    19.20
+Manual therapy techniques, 15 min         97140      2     120.00    64.00    51.20    12.80
+--------------------------------------------------------------------------------------------
+Totals                                                  300.00   160.00   128.00    32.00
+
+Patient responsibility for this claim: 32.00 USD
+Questions about this statement: call the number on your member card.
+
+FICTITIOUS SAMPLE FOR AN AGENT SPACE HIRING ASSIGNMENT. All names, ids and figures are invented.

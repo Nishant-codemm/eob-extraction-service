@@ -1,0 +1,43 @@
+{
+  "header": {
+    "document_number": "SP-2026-6620884",
+    "document_date": "2026-09-30",
+    "issuer_name": "Summit Point Assurance",
+    "issuer_id": "PAYER-SP-660",
+    "recipient_name": "Leon K. Park",
+    "recipient_id": "SP6620884",
+    "base_unit": "USD",
+    "declared_total": "102.00",
+    "total_billed": "860.00",
+    "total_allowed": "510.00",
+    "total_plan_paid": "408.00",
+    "total_tax_amount": "0.00",
+    "is_arithmetic_valid": true,
+    "needs_review": true,
+    "review_reasons": [
+      "completion_wrapper_removed"
+    ]
+  },
+  "line_items": [
+    {
+      "line_number": 1,
+      "line_description": "Specialist consultation, 40 min",
+      "classification_code": "99244",
+      "quantity": 1,
+      "amount_billed": "340.00",
+      "amount_allowed": "210.00",
+      "amount_plan_paid": "168.00",
+      "line_total": "42.00"
+    },
+    {
+      "line_number": 2,
+      "line_description": "Echocardiogram, complete",
+      "classification_code": "93306",
+      "quantity": 1,
+      "amount_billed": "520.00",
+      "amount_allowed": "300.00",
+      "amount_plan_paid": "240.00",
+      "line_total": "60.00"
+    }
+  ]
+}

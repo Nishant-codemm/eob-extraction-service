@@ -1,0 +1,51 @@
+{
+  "header": {
+    "document_number": "NW-2026-5513429",
+    "document_date": "2026-09-14",
+    "issuer_name": "Northwind Health Plan",
+    "issuer_id": "PAYER-NW-014",
+    "recipient_name": "Jordan A. Ellis",
+    "recipient_id": "NW9920147",
+    "base_unit": "USD",
+    "declared_total": "46.00",
+    "total_billed": "395.00",
+    "total_allowed": "230.00",
+    "total_plan_paid": "184.00",
+    "total_tax_amount": "0.00",
+    "is_arithmetic_valid": true,
+    "needs_review": false,
+    "review_reasons": []
+  },
+  "line_items": [
+    {
+      "line_number": 1,
+      "line_description": "Office visit, established patient, 25 min",
+      "classification_code": "99214",
+      "quantity": 1,
+      "amount_billed": "220.00",
+      "amount_allowed": "150.00",
+      "amount_plan_paid": "120.00",
+      "line_total": "30.00"
+    },
+    {
+      "line_number": 2,
+      "line_description": "Metabolic panel, comprehensive",
+      "classification_code": "80053",
+      "quantity": 1,
+      "amount_billed": "95.00",
+      "amount_allowed": "42.00",
+      "amount_plan_paid": "33.60",
+      "line_total": "8.40"
+    },
+    {
+      "line_number": 3,
+      "line_description": "Lipid panel",
+      "classification_code": "80061",
+      "quantity": 1,
+      "amount_billed": "80.00",
+      "amount_allowed": "38.00",
+      "amount_plan_paid": "30.40",
+      "line_total": "7.60"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+NORTHWIND HEALTH PLAN
+EXPLANATION OF BENEFITS - THIS IS NOT A BILL
+
+Claim Number: NW-2026-5513429        Processed: 2026-09-14
+Member: Jordan A. Ellis    Member ID: NW9920147
+Payer ID: PAYER-NW-014
+
+Service                                   Code    Units   Billed   Allowed  PlanPaid  YouOwe
+--------------------------------------------------------------------------------------------
+Office visit, established patient, 25 mi  99214      1     220.00   150.00   120.00    30.00
+Metabolic panel, comprehensive            80053      1      95.00    42.00    33.60     8.40
+Lipid panel                               80061      1      80.00    38.00    30.40     7.60
+--------------------------------------------------------------------------------------------
+Totals                                                  395.00   230.00   184.00    46.00
+
+Patient responsibility for this claim: 46.00 USD
+Questions about this statement: call the number on your member card.
+
+FICTITIOUS SAMPLE FOR AN AGENT SPACE HIRING ASSIGNMENT. All names, ids and figures are invented.

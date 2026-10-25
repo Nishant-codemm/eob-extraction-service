@@ -1,0 +1,19 @@
+CEDAR CROSS MUTUAL
+EXPLANATION OF BENEFITS - THIS IS NOT A BILL
+
+Claim Number: CC-2026-7731905        Processed: 2026-09-18
+Member: Marcus O. Bennett    Member ID: CC3310190
+Payer ID: PAYER-CC-330
+
+Service                                   Code    Units   Billed   Allowed  PlanPaid  YouOwe
+--------------------------------------------------------------------------------------------
+Diagnostic mammography, bilateral         77066      1     310.00   180.00   144.00    36.00
+Radiologist interpretation                76140      1      90.00    48.00    38.40     9.60
+Ultrasound, breast, limited               76642      1     160.00    92.00    73.60    18.40
+--------------------------------------------------------------------------------------------
+Totals                                                  560.00   320.00   256.00    64.00
+
+Patient responsibility for this claim: 64.00 USD
+Questions about this statement: call the number on your member card.
+
+FICTITIOUS SAMPLE FOR AN AGENT SPACE HIRING ASSIGNMENT. All names, ids and figures are invented.

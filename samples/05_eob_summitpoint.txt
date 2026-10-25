@@ -1,0 +1,18 @@
+SUMMIT POINT ASSURANCE
+EXPLANATION OF BENEFITS - THIS IS NOT A BILL
+
+Claim Number: SP-2026-6620884        Processed: 2026-09-30
+Member: Leon K. Park    Member ID: SP6620884
+Payer ID: PAYER-SP-660
+
+Service                                   Code    Units   Billed   Allowed  PlanPaid  YouOwe
+--------------------------------------------------------------------------------------------
+Specialist consultation, 40 min           99244      1     340.00   210.00   168.00    42.00
+Echocardiogram, complete                  93306      1     520.00   300.00   240.00    60.00
+--------------------------------------------------------------------------------------------
+Totals                                                  860.00   510.00   408.00   102.00
+
+Patient responsibility for this claim: 102.00 USD
+Questions about this statement: call the number on your member card.
+
+FICTITIOUS SAMPLE FOR AN AGENT SPACE HIRING ASSIGNMENT. All names, ids and figures are invented.
